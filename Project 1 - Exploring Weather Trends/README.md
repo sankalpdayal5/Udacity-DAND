@@ -1,5 +1,7 @@
 # Exploring Weather Trends - Project #
 
+---
+
 Analysis
 
 * CRITERIA
@@ -25,6 +27,11 @@ Analysis
    - The student includes four observations about their provided data visualization.
    - The four observations are accurate.
    
+---
+
+File containing all the code - [Submit_final.ipynb](Submit_final.ipynb)
+   
+---
    
 ## Interpretation of data visualization
    
@@ -33,3 +40,4 @@ Analysis
 - The targeted region has very less significant difference in temperature considered over time
 - Global temperature has changed a lot in the last 200 years
 - The city taken is hotter than the average global temperature
+---
