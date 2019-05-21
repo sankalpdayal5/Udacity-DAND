@@ -29,7 +29,11 @@ Analysis
    
 ---
 
-File containing all the code - [Submit_final.ipynb](Submit_final.ipynb)
+[File containing all the code](Submit_final.ipynb)
+
+[File in PDF format](Submit_final.pdf)
+
+[File in HTML format](Submit_final.html)
    
 ---
    
